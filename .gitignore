@@ -1,4 +1,5 @@
-Headers/
+Objects/
+JLinkLog.txt
 !*.c
 !*.h
 *.log
@@ -6,8 +7,6 @@ Headers/
 *.bak
 *.dep
 *.uvgui.*
-/JLinkLog.txt/
-Objects/
 *.o
 *.d
 *.crf
