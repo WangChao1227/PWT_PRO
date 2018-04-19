@@ -1,19 +1,19 @@
 !*.c
 !*.h
-   *.log
-   *.plg
-   *.bak
-   *.dep
-   *.uvgui.*
-   JLinkLog.txt
-   Objects/
-   *.o
-   *.d
-   *.crf
-   *.tra
-   *.axf
-   *.hex
-   *.lnp
-   *.sct
-   *.__i
-   *.htm
+*.log
+*.plg
+*.bak
+*.dep
+*.uvgui.*
+/JLinkLog.txt/
+Objects/
+*.o
+*.d
+*.crf
+*.tra
+*.axf
+*.hex
+*.lnp
+*.sct
+*.__i
+*.htm
