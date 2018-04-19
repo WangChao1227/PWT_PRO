@@ -2,7 +2,7 @@ Objects/
 JLinkLog.txt
 *.scvd
 *.ini
-*.uvguix.
+*.uvguix.*
 *.uvoptx
 !*.c
 !*.h
