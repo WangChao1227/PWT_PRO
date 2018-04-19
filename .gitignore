@@ -1,13 +1,15 @@
 Objects/
 JLinkLog.txt
 *.scvd
+*.ini
+*.uvguix
+*.uvoptx
 !*.c
 !*.h
 *.log
 *.plg
 *.bak
 *.dep
-*.uvgui.*
 *.o
 *.d
 *.crf
