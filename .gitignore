@@ -6,17 +6,3 @@ JLinkLog.txt
 *.uvoptx
 !*.c
 !*.h
-*.log
-*.plg
-*.bak
-*.dep
-*.o
-*.d
-*.crf
-*.tra
-*.axf
-*.hex
-*.lnp
-*.sct
-*.__i
-*.htm
