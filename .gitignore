@@ -6,7 +6,7 @@
    *.dep
    *.uvgui.*
    JLinkLog.txt
-   objects/
+   Objects/
    *.o
    *.d
    *.crf
