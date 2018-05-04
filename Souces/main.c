@@ -5,6 +5,7 @@
 #include "PWT.h"
 #include "UART.h"
 #include "stdio.h"
+# include "PIT.h"
 
 #ifdef  __GNUC__
 #define PUTCHAR_PROTOTYPE int __io_putchar(int ch)
@@ -31,6 +32,7 @@ int main()
     PWT_Init();
     //ENABLE_INTERRUPTS;
     //NVIC_EnableIRQ(PWT_IRQn);
+	PIT_Init (0, 1000);
     UART_Init();
     GPIO_Init();
     //OUTPUT_SET(PTG, PTG1); //¹Ø±Õ
